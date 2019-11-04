@@ -1,0 +1,7 @@
+C:\Users\Yorik\Desktop\OCP\Open-Closed\Open-Closed\bin\Debug\Open-Closed.exe.config
+C:\Users\Yorik\Desktop\OCP\Open-Closed\Open-Closed\bin\Debug\Open-Closed.exe
+C:\Users\Yorik\Desktop\OCP\Open-Closed\Open-Closed\bin\Debug\Open-Closed.pdb
+C:\Users\Yorik\Desktop\OCP\Open-Closed\Open-Closed\obj\Debug\Open-Closed.csprojAssemblyReference.cache
+C:\Users\Yorik\Desktop\OCP\Open-Closed\Open-Closed\obj\Debug\Open-Closed.csproj.CoreCompileInputs.cache
+C:\Users\Yorik\Desktop\OCP\Open-Closed\Open-Closed\obj\Debug\Open-Closed.exe
+C:\Users\Yorik\Desktop\OCP\Open-Closed\Open-Closed\obj\Debug\Open-Closed.pdb
